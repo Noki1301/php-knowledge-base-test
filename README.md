@@ -24,6 +24,7 @@ php -S localhost:8000
 и открыть в браузере http://localhost:8000
 
 ## Скриншот
-![Интерфейс мини-базы знаний](https://github.com/user-attachments/assets/f3d07bb0-74cc-44c8-a4e8-4df652062485)
+![Интерфейс мини-базы знаний](https://github.com/user-attachments/assets/420ba756-4694-44f1-b09f-e6dce48635b3)
+
 
 
